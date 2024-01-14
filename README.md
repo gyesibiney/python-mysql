@@ -3,8 +3,8 @@
 
 
 |  | Project's Name | Article Link    | 
-|:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Python-MySQL Project            |  (https://medium.com/@david.biney/creating-an-interactive-bus-transit-route-map-and-distance-calculation-with-python-a-stepwise-6ab0cbf0ac44) | 
+|:--:|:--------------:|:--------------:|
+| 1 |  -Python-MySQL Project   |  () | 
 
 
 # Digital mapping bus transit route ✨

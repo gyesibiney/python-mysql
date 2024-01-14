@@ -4,7 +4,7 @@
 
 |  | Project's Name | Article Link    | 
 |:--:|:--------------:|:--------------:|
-| 1 |  * Python-MySQL Project   |  () | 
+| 1 | Python-MySQL Project|  () | 
 
 
 # Digital mapping bus transit route ✨

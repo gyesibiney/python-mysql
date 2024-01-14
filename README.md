@@ -7,7 +7,7 @@
 | 1 | Python-MySQL Project|  (https://medium.com/@david.biney/building-your-digital-library-a-fun-non-techy-guide-9e271fbaff6e) | 
 
 
-# Digital mapping bus transit route ✨
+# Building Your Digital Library: A Fun, Non-Techy Guide. ✨
 
 📚 **Description**
 =================
